@@ -15,7 +15,7 @@ pip3 install torchquantum
 ```
 
  ### 0. Downloading the dataset 
- ## The quantum dot dataset used in our experiments is available through an external repository
+ #### The quantum dot dataset used in our experiments is available through an external repository
 ```
 git clone https://gitlab.com/QMAI/mlqe_2023_edx.git
 ```
